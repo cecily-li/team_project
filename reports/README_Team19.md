@@ -1,4 +1,4 @@
-# DSI Project 1 - Team 19
+# DSI Project - Team 19
 
 ## Dataset Exploration:
 ### How will you select your dataset?
@@ -25,7 +25,6 @@ This workbook contains the design, implementation, and test of regression using 
 * Belchin(Balkan) Naumov
 * Yu (Cecily) Li
 * Luiz Oliveira
-* Shahrzad Soltanieh
 
 ### Communication and Feedback 
 #### Channels and Purposes:
@@ -103,9 +102,49 @@ Our analysis provides value to shareholders of the insurance company by answerin
 * Statsmodels - for conducting statistical tests and fitting statistical models
 * Sklearn - for ML tasks, classification, regression, and clustering
 
+## Data Visualization
+### What are the main goals and objectives of our visualization project?
+The primary goals of the visualization project are to allow users to identify patterns and trends in relationships between variables at a glance, such as the impact of age of prospective customers and vehicle age on the likelihood of purchasing additional insurance. By presenting data in a clear and understandable format, we seek to provide insights that may be actioned on by the insurance company's stakeholders, including those without a technical background. We hope that users are able to leverage our visualizations in identifying prospective customers more effectively, and refine their marketing strategies to capture more of the customer segment. 
+
+### How can we tailor the visualization to effectively communicate with our audience?
+To tailor the visualization for insurance companies, we focused on relevance of data, managing the complexity of data visualizations and terminology used, and highlighting key insights that could directly impact business decisions or strategic planning.
+
+### What type of visualization best suits our data and objectives (e.g., bar chart, scatter plot, heatmap)?
+Based on the objectives and data, we considered the following visualizations:
+Heatmaps: Ideal for showing correlations between different numerical variables, such as annual premium and customer age.
+Scatter Plots: Useful for visualizing relationships between continuous variables, such as age versus annual premium.
+Bar Charts: Effective for comparing categorical data, such as the distribution of responses based on gender or vehicle damage.
+Box Plots: Good for understanding the distribution of numerical variables, such as annual premiums across different vehicle ages.
+Histograms: Useful for examining the distribution of single variables, such as the frequency of different ages or annual premiums.
+
+### Are there any specific libraries or frameworks that are well-suited to our project requirements?
+Yes, the following libraries and frameworks are well-suited:
+Matplotlib: For basic and customizable static visualizations.
+Seaborn: For attractive statistical graphics and easy-to-use interfaces for visualizing complex datasets.
+Plotly: For interactive and web-ready visualizations that can enhance user engagement.
+Altair: For concise and declarative visualizations, suitable for interactive charts.
+
+### How can we iterate on our design to address feedback and make iterative improvements?
+To identify potential issues with our design and increase accessibility for our users, we can look to collect feedback and input on the initial visualizations and make adjustments as needed. Further testing will be conducted on these iterations to ensure improvements purposeful and effective. Additionally, all changes revisions will be logged for version management and to document the rationale for changes being made. 
+
+### What best practices can we follow to promote inclusivity and diversity in our visualization design?
+To promote inclusivity and diversity in our visualization design, we used accessible colour schemes which are distinguishable for users who may be visually impaired, and ensured that all labels and legends are clear and visible. An additional practice to consider for future iterations are text alternatives which may include descriptive text or tooltips for those who use assistive technologies and screen readers. 
+
+### How can we ensure that our visualization accurately represents the underlying data without misleading or misinterpreting information?
+To avoid misleading information and to prevent misinterpretation, we paid attention to context in the form of axes labels, titles, legends, etc., as well as data integrity checks and data validations prior to creating the data visualizations. Additionally, we used appropriate scales for our visuals to avoid distortion and misrepresentation of data.
+
+### Are there any privacy concerns or sensitive information that need to be addressed in our visualization?
+Prior to creating our visualization, we removed privacy factors such as location, name, etc., and left in only ambiguous identifiers such as age and gender where the combination of these variables could not be used to identify the individual. By anonymizing the data, we are practicing good data privacy policy in the handling of sensitive personal information and avoiding the possibility of breached individual privacy concerns. 
+
 
 ## Individual Learnings and Experiences Videos:
+# Team Project 1
 * Belchin(Balkan) Naumov: https://www.youtube.com/watch?v=L17xnrZrr9k
 * Yu (Cecily) Li: https://youtu.be/aa8R4SE09_o
 * Luiz Oliveira: https://www.youtube.com/watch?v=qS3hN-iVuR4
 * Shahrzad Soltanieh: https://youtu.be/8n2krR-nw0Y
+
+# Team Project 2
+* Belchin(Balkan) Naumov:
+* Yu (Cecily) Li: 
+* Luiz Oliveira:
