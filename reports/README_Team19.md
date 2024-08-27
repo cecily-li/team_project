@@ -146,5 +146,5 @@ Prior to creating our visualization, we removed privacy factors such as location
 
 # Team Project 2
 * Belchin(Balkan) Naumov:
-* Yu (Cecily) Li: 
+* Yu (Cecily) Li: https://youtu.be/_2lHpJpLCec
 * Luiz Oliveira:
